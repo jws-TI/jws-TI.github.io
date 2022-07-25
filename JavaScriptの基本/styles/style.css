@@ -1,0 +1,39 @@
+h1{
+    font-size:60px;
+    text-align:center;
+  }
+p,li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing:1px;
+}
+html {
+    background-color: #8aacd4b7;
+  }
+  body {
+    width: 600px;
+    margin:  0 auto;
+    background-color: #e5e5e5;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #3f726e;
+    text-shadow: 3px 3px 1px rgba(84, 84, 84, 0.219);
+  }
+  h2{
+    font-size:12px;
+    font-family: 'Ibarra Real Nova', serif;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  h1,li{
+    font-family: 'Nanum Myeongjo', serif;
+  }
+  p{
+    font-family: 'Noto Serif TC', serif;
+  }
